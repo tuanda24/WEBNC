@@ -151,7 +151,7 @@ span.has-dot::before{content:"";width:3px;height:3px;background:#999;border-radi
 
 /*list style*/
 
-.list-style-2 .post-thumb .img-hover-slide{min-height:150px}
+/* .list-style-2 .post-thumb .img-hover-slide{min-height:auto} */
 
 /*post-share-social*/
 figure .social-share,
